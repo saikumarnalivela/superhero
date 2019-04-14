@@ -15,6 +15,7 @@
 		3FC961392262A0AD0025149C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FC961372262A0AD0025149C /* LaunchScreen.storyboard */; };
 		3FC961442262A0AD0025149C /* SuperHeroSAINalivelaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC961432262A0AD0025149C /* SuperHeroSAINalivelaTests.swift */; };
 		3FC9614F2262A0AD0025149C /* SuperHeroSAINalivelaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC9614E2262A0AD0025149C /* SuperHeroSAINalivelaUITests.swift */; };
+		3FC9615D2262A2050025149C /* superHero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC9615C2262A2050025149C /* superHero.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3FC9614A2262A0AD0025149C /* SuperHeroSAINalivelaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SuperHeroSAINalivelaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FC9614E2262A0AD0025149C /* SuperHeroSAINalivelaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperHeroSAINalivelaUITests.swift; sourceTree = "<group>"; };
 		3FC961502262A0AD0025149C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FC9615C2262A2050025149C /* superHero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = superHero.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				3FC9612E2262A0AB0025149C /* FirstViewController.swift */,
 				3FC961302262A0AB0025149C /* SecondViewController.swift */,
 				3FC961322262A0AB0025149C /* Main.storyboard */,
+				3FC9615C2262A2050025149C /* superHero.swift */,
 				3FC961352262A0AC0025149C /* Assets.xcassets */,
 				3FC961372262A0AD0025149C /* LaunchScreen.storyboard */,
 				3FC9613A2262A0AD0025149C /* Info.plist */,
@@ -262,6 +265,7 @@
 				3FC961312262A0AB0025149C /* SecondViewController.swift in Sources */,
 				3FC9612D2262A0AB0025149C /* AppDelegate.swift in Sources */,
 				3FC9612F2262A0AB0025149C /* FirstViewController.swift in Sources */,
+				3FC9615D2262A2050025149C /* superHero.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
